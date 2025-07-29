@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am pursuing my B.Tech in Information and Communication Technology at Dhirubhai Ambani Institute. I am into programming, mathematics and the magic of randomness.
+I am pursuing my B.Tech in Information and Communication Technology at Dhirubhai Ambani Institute.
 
 
 ## 🌐 Socials:
@@ -14,3 +14,6 @@ I am pursuing my B.Tech in Information and Communication Technology at Dhirubhai
 
 ---
 [![](https://visitcount.itsvg.in/api?id=parvaraval27&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parvaraval27&layout=compact)
+
