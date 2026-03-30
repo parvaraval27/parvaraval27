@@ -11,6 +11,6 @@ I am pursuing my B.Tech in Information and Communication Technology at Dhirubhai
 ![](https://github-readme-stats.vercel.app/api?username=parvaraval27&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=parvaraval27&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parvaraval27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://komarev.com/ghpvc/?username=your-github-username)
+
 
 ---
