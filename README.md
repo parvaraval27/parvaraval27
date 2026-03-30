@@ -14,4 +14,3 @@ I am pursuing my B.Tech in Information and Communication Technology at Dhirubhai
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=parvaraval27&icon=0&color=0)](https://visitcount.itsvg.in)
