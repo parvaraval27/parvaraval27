@@ -1,6 +1,6 @@
 # 💫 About Me
 I am pursuing my B.Tech in Information and Communication Technology at Dhirubhai Ambani University. 
-- 💼 Previously: Technology Program Analyst Intern at Wells Fargo[cite: 1].
+- 💼 Previously: Technology Program Analyst Intern at Wells Fargo.
 - 🚀 Interests: Distributed Systems, Full-Stack (MERN/Spring Boot), and Big Data Processing.
 - 🏆 Competitive Programming: Specialist on Codeforces, 2-Star on CodeChef, and 1807 rating on LeetCode.
 
